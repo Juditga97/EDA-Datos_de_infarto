@@ -26,15 +26,11 @@ Estas hipótesis servirán como guía durante el EDA y podrán ser confirmadas o
 ## **Estructura del repositorio**
 ## **Principales conclusiones**
 
-
-
-## **Resultados**
-
 ## **Instrucciones de reproducción**
 
 Para la elaboración del EDA hemos creado 3 ramas diferentes en función de los miembros del equipo. Para su funcionalidad, cada persona ha hecho un archivo main.ipynb para la ejecución de su código. La distribución ha sido la siguiente:
 
-### *1. Judit:*
+### *1. Judit:* https://github.com/Juditga97 | https://www.linkedin.com/in/judit-garcia-aguilar/
 
 **Semana 1**
 
@@ -71,7 +67,7 @@ GitHub y README
 - Estructura del repositorio
 - README completo:Descripción, Hipótesis, Resultados, Instrucciones de ejecución
 
-### *2. Camila:*
+### *2. Camila:* 
 
 **Semana 1**
 
