@@ -22,7 +22,7 @@ Las hipótesis que se han planteado han sido las siguientes:
 
 Estas hipótesis servirán como guía durante el EDA y podrán ser confirmadas o descartadas a partir de los datos.
 
-## **Tecnologías utilizadas (librerías, herramientas, lenguajes)
+## **Tecnologías utilizadas (librerías, herramientas, lenguajes)**
 
 El dataset utilizado para el análisis de datos se ha obtenido desde la plataforma Kaggle, en formato CSV y se ha empleado GitHub para el control de versiones del proyecto, creando 3 ramas diferentes según los miembros del equipo y trabajando cada uno sobre la suya.
 
