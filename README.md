@@ -45,7 +45,16 @@ Para su funcionalidad, el código que se debe ejecutar es el archivo main.ipynb,
 
 ## **Principales conclusiones**
 
-# ***PONER AQUÍ LAS PRINCIPALES CONCLUSIONES***
+Las conclusiones que hemos conseguido a partir del análisis de los datos han sido las siguientes:
+
+- La salud general de las personas afecta a la probabilidad de padecer una enfermedad cardiovascular; esto sumado a que otro tipo de variables a lo largo del dataset nos hacen reforzar esta misma idea, da lugar a pensar que esto es una realidad y debemos tener cuidado con nuestra salud general.
+
+- Habíamos dejado claro en el análisis bivariante que la edad tenía una clara relación con la proporción de enfermedades cardiovasculares, y tras el análisis multivariante, podemos sumar a esto que los hombres, son a su vez, más propensos a padecer esta clase de patologías en cualquier rango de edad.
+
+- Hemos observado como, hábitos poco saludables como el tabaquismo, un mal horario de sueño, o no hacer ejercicio, dan resultado a una mayor probabilidad de enfermedades cardiovasculares. Lo que sí sorprende es que las personas que utilizan un cigarrillo electrónico no se ven significativamente tan afectadas como podríamos esperar.
+
+- Asimismo, visualizamos como aquellas variables como el IMC y padecer de diabetes son también muy relevantes, en especial esta última, puesto que aquellas personas que se ven afectadas por la dicha, ven abierta una mayor probabilidad a verse expuestos a este tipo de riesgos.
+
 
 ## **Autores**
 
