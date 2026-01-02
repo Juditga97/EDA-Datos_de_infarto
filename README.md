@@ -41,8 +41,7 @@ En la rama main encontramos el archivo readME, donde se encuentran las instrucci
 
 ## **Instrucciones de reproducción**
 
-Para su funcionalidad, el código que se debe ejecutar es el archivo main.ipynb, el cual se encuentra en la rama main del repositorio.
-# ***AQUÍ IGUAL EXPLAYARNOS UN POCO MÁS***
+Para su funcionalidad, el código que se debe ejecutar es el archivo main.ipynb, el cual se encuentra en la rama main del repositorio. Para su correcta interpretación, es preciso hacerlo en el orden específico en el que aparecen las celdas. Además, cada código viene hilado a la propia explicación, que se irá dando a medida.
 
 ## **Principales conclusiones**
 
