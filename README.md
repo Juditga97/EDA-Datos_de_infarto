@@ -97,7 +97,7 @@ GitHub y README
 - Estructura del repositorio
 - README completo:Descripción, Hipótesis, Resultados, Instrucciones de ejecución
 
-### *2. Camila:* https://github.com/cflorenciafiore
+### *2. Camila:* https://github.com/cflorenciafiore | https://www.linkedin.com/in/camilafiore/
 
 **Semana 1**
 
@@ -126,7 +126,7 @@ Presentación
 - Seleccionar gráficos clave
 - Mantener enfoque ejecutivo (sin código)
 
-### *3. Alejandro:* https://github.com/alejandroarbide | https://www.linkedin.com/in/alejandro-arbide-b1672a2a3
+### *3. Alejandro:* https://github.com/alejandroarbide | https://www.linkedin.com/in/alejandro-arbide/
 
 **Semana 2**
 
